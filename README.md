@@ -1,1 +1,2 @@
-# Electricity-price-prediction
+# Electricity price prediction in Switzerland
+
